@@ -1,0 +1,15 @@
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk3\obj\Debug\net6.0\tesk3.csproj.AssemblyReference.cache
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk3\obj\Debug\net6.0\tesk3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk3\obj\Debug\net6.0\tesk3.AssemblyInfoInputs.cache
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk3\obj\Debug\net6.0\tesk3.AssemblyInfo.cs
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk3\obj\Debug\net6.0\tesk3.csproj.CoreCompileInputs.cache
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk3\bin\Debug\net6.0\tesk3.exe
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk3\bin\Debug\net6.0\tesk3.deps.json
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk3\bin\Debug\net6.0\tesk3.runtimeconfig.json
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk3\bin\Debug\net6.0\tesk3.dll
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk3\bin\Debug\net6.0\tesk3.pdb
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk3\obj\Debug\net6.0\tesk3.dll
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk3\obj\Debug\net6.0\refint\tesk3.dll
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk3\obj\Debug\net6.0\tesk3.pdb
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk3\obj\Debug\net6.0\tesk3.genruntimeconfig.cache
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk3\obj\Debug\net6.0\ref\tesk3.dll
