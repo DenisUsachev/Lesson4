@@ -11,7 +11,7 @@
 int GetNumber(string message)
 {
     bool isCorrect = false;
-    int result =0;
+    int result = 0;
     while (!isCorrect)
     {
          Console.WriteLine(message);
