@@ -1,0 +1,15 @@
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk4\bin\Debug\net6.0\tesk4.exe
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk4\bin\Debug\net6.0\tesk4.deps.json
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk4\bin\Debug\net6.0\tesk4.runtimeconfig.json
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk4\bin\Debug\net6.0\tesk4.dll
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk4\bin\Debug\net6.0\tesk4.pdb
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk4\obj\Debug\net6.0\tesk4.csproj.AssemblyReference.cache
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk4\obj\Debug\net6.0\tesk4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk4\obj\Debug\net6.0\tesk4.AssemblyInfoInputs.cache
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk4\obj\Debug\net6.0\tesk4.AssemblyInfo.cs
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk4\obj\Debug\net6.0\tesk4.csproj.CoreCompileInputs.cache
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk4\obj\Debug\net6.0\tesk4.dll
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk4\obj\Debug\net6.0\refint\tesk4.dll
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk4\obj\Debug\net6.0\tesk4.pdb
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk4\obj\Debug\net6.0\tesk4.genruntimeconfig.cache
+C:\Users\DaNNeZ\Desktop\Lesson4\tesk4\obj\Debug\net6.0\ref\tesk4.dll
